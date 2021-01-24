@@ -9,7 +9,7 @@ Yang Ning is a teacher in the Chinese Department of the China Institute of Labor
 
 ## 文学理论（绪论）
 
-##何谓理论？
+## 何谓理论？
 
 理论约等于哲学
 
@@ -121,15 +121,18 @@ Yang Ning is a teacher in the Chinese Department of the China Institute of Labor
 
 1. 文学四要素《镜与灯》
 
-![image-20210110134749107](文学理论.assets/image-20210110134749107.png)
+```mermaid
+graph TD
+A[世界]
+B[作品]
+C[读者]
+D[作者]
+B-->A
+B-->C
+B-->D
+```
 
-
-
-
-
-
-
-
+![](https://img1.doubanio.com/view/photo/l/public/p2631356558.webp)
 
 文学理论研究的五个方面：
 
@@ -164,7 +167,7 @@ Yang Ning is a teacher in the Chinese Department of the China Institute of Labor
 
 （二）文学性的四个维度
 
-###维度①：审美、文化
+### 维度①：审美、文化
 
 人类把握世界的三种方式：真善美
 
@@ -206,7 +209,7 @@ Yang Ning is a teacher in the Chinese Department of the China Institute of Labor
 
 
 
-###维度②：语言、符号
+### 维度②：语言、符号
 
 （1）语言的基本特征
 
@@ -892,11 +895,11 @@ Yang Ning is a teacher in the Chinese Department of the China Institute of Labor
    >
    > “你当然不会觉得像的。”
 
-   ![image-20210122224320832](文学理论.assets/image-20210122224320832.png)
+   ![约客](https://img2.doubanio.com/view/photo/m/public/p2631356562.webp)
 
    C
 
-   ![image-20210122224524541](文学理论.assets/image-20210122224524541.png)
+   ![登鹤雀楼](https://img2.doubanio.com/view/photo/m/public/p2631356563.webp)
 
    BE
 
@@ -1055,7 +1058,7 @@ Yang Ning is a teacher in the Chinese Department of the China Institute of Labor
 
 2. 符号学矩阵
 
-   ![image-20210123103415574](文学理论.assets/image-20210123103415574.png)
+   ![文学符号矩阵](https://img1.doubanio.com/view/photo/m/public/p2631356557.webp)
 
 《老人与海》
 
@@ -1069,7 +1072,7 @@ X：老人                反X：他人
 
 非反X：海            非X：鱼（老人与鱼，是人与自然的关系（绝对的自然）											杀戮）
 
-![image-20210123103918825](文学理论.assets/image-20210123103918825.png)
+![老人与海](https://img1.doubanio.com/view/photo/m/public/p2631356559.webp)
 
 
 
@@ -1091,17 +1094,17 @@ X：老人                反X：他人
 2. 采取行动——给出一个解决方案
 3. 目的达成——结果
 
-![image-20210123192827977](文学理论.assets/image-20210123192827977.png)
+![三合一体](https://img3.doubanio.com/view/photo/m/public/p2631356561.webp)
 
 ①链接式 A1-A2-A3-B1-B2...
 
 典型代表：侦探小说
 
-②镶嵌式![image-20210123193022342](文学理论.assets/image-20210123193022342.png)
+②镶嵌式![镶嵌型](https://img9.doubanio.com/view/photo/m/public/p2631356555.webp)
 
 典型代表：《水浒传》
 
-③两面式![image-20210123193236881](文学理论.assets/image-20210123193236881.png)
+③两面式![两面型](https://img9.doubanio.com/view/photo/m/public/p2631356556.webp)
 
 典型代表：水浒传，智取生辰纲
 
