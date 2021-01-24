@@ -132,7 +132,7 @@ B-->C
 B-->D
 ```
 
-![](https://img1.doubanio.com/view/photo/l/public/p2631356558.webp)
+![](https://images.weserv.nl/?url=https://img1.doubanio.com/view/photo/l/public/p2631356558.webp)
 
 文学理论研究的五个方面：
 
@@ -895,11 +895,11 @@ B-->D
    >
    > “你当然不会觉得像的。”
 
-   ![约客](https://img2.doubanio.com/view/photo/m/public/p2631356562.webp)
+   ![约客](https://images.weserv.nl/?url=https://img2.doubanio.com/view/photo/m/public/p2631356562.webp)
 
    C
 
-   ![登鹤雀楼](https://img2.doubanio.com/view/photo/m/public/p2631356563.webp)
+   ![登鹤雀楼](https://images.weserv.nl/?url=https://img2.doubanio.com/view/photo/m/public/p2631356563.webp)
 
    BE
 
@@ -1058,7 +1058,7 @@ B-->D
 
 2. 符号学矩阵
 
-   ![文学符号矩阵](https://img1.doubanio.com/view/photo/m/public/p2631356557.webp)
+   ![文学符号矩阵](https://images.weserv.nl/?url=https://img1.doubanio.com/view/photo/m/public/p2631356557.webp)
 
 《老人与海》
 
@@ -1072,7 +1072,7 @@ X：老人                反X：他人
 
 非反X：海            非X：鱼（老人与鱼，是人与自然的关系（绝对的自然）											杀戮）
 
-![老人与海](https://img1.doubanio.com/view/photo/m/public/p2631356559.webp)
+![老人与海](https://images.weserv.nl/?url=https://img1.doubanio.com/view/photo/m/public/p2631356559.webp)
 
 
 
@@ -1094,17 +1094,17 @@ X：老人                反X：他人
 2. 采取行动——给出一个解决方案
 3. 目的达成——结果
 
-![三合一体](https://img3.doubanio.com/view/photo/m/public/p2631356561.webp)
+![三合一体](https://images.weserv.nl/?url=https://img3.doubanio.com/view/photo/m/public/p2631356561.webp)
 
 ①链接式 A1-A2-A3-B1-B2...
 
 典型代表：侦探小说
 
-②镶嵌式![镶嵌型](https://img9.doubanio.com/view/photo/m/public/p2631356555.webp)
+②镶嵌式![镶嵌型](https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/m/public/p2631356555.webp)
 
 典型代表：《水浒传》
 
-③两面式![两面型](https://img9.doubanio.com/view/photo/m/public/p2631356556.webp)
+③两面式![两面型](https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/m/public/p2631356556.webp)
 
 典型代表：水浒传，智取生辰纲
 
