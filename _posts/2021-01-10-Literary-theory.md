@@ -2,6 +2,7 @@
 layout: post
 title: "Literary theory"
 author: "Don Quixote"
+comments: true
 tags: Literary theory
 ---
 
