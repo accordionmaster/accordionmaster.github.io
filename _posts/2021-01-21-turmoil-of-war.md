@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "一个人的兵荒马乱"
-author: "Don Quixote"
-comments: true     
+author: "Don Quixote"   
 tags: Words
 ---
 
