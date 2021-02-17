@@ -15,3 +15,9 @@ Also included is instruction in the different techniques that work best for read
 
 Finally, the authors offer a recommended reading list and supply reading tests you can use measure your own progress in reading skills, comprehension, and speed.
 
+
+
+当我快要读完这本书的时候，我想把这本书从新回顾一下。
+
+# 第一章  阅读的层次
+

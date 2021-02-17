@@ -22,7 +22,9 @@ Winter vacation is coming. This is Wang Xinyue's winter vacation study plan. I h
 | January...         |                                                              |              |                                                              |
 | February 3rd       | 译序、<br />目录、<br />第一章  阅读的活力与艺术（Page 17）  | 待定         | 第1，3，5课跟读<br /><br />熟悉1-6课单词                     |
 | 我们的收获：       | 一个很好的开始                                               |              | 第一天，花费的时间有点多，哈哈。也许基础弱的小朋友需要多花些时间，但这也是值得的。努力不会白费 |
-| February  4th      | 第二章  阅读的层次<br />第三章  阅读的第一个层次：基础阅读（Page  29） | 今天去拿书   | 第7、9、11课跟读<br />熟悉7-11课单词                         |
+| February  3th      |                                                              | 今天去拿书   | 第7、9、11课跟读<br />熟悉7-11课单词                         |
+|                    |                                                              |              |                                                              |
+| Feburary 4th       | 第二章  阅读的层次<br />第三章  阅读的第一个层次：基础阅读（Page  29） |              | 第                                                           |
 
 
 
