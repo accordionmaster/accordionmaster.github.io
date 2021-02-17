@@ -7,7 +7,7 @@ tags: Words
 
 
 
-This is a essay about my study experience of cat. I want a cat as my friends.  
+This is a essay about my study experience of cat. I want a cat as my friend. And when I finished these word , I realized the fact that I am not ready to being a cat owner. I’m busy and should care about my neighbor. So I decided to choose some little tortoises.  It’s a good idea, yeah. They are always quiet, and they are always so small.  It reminds me of the book of *the little prince*. ‘If you please draw me a sheep’ said by little prince.
 
 
 
@@ -191,11 +191,23 @@ This is a essay about my study experience of cat. I want a cat as my friends.
 
 
 
+## 参考链接
 
+### 领养
+
+[河北廊坊三花]([https://www.douban.com/doubanapp/dispatch?uri=/group/topic/210753557](https://www.douban.com/link2/?url=https%3A%2F%2Fwww.douban.com%2Fdoubanapp%2Fdispatch%3Furi%3D%2Fgroup%2Ftopic%2F210753557))
+
+[北京西城流浪猫]([https://www.douban.com/doubanapp/dispatch?uri=/group/topic/211469006](https://www.douban.com/link2/?url=https%3A%2F%2Fwww.douban.com%2Fdoubanapp%2Fdispatch%3Furi%3D%2Fgroup%2Ftopic%2F211469006))
+
+[丰台领养]([https://www.douban.com/doubanapp/dispatch?uri=/group/topic/205617484](https://www.douban.com/link2/?url=https%3A%2F%2Fwww.douban.com%2Fdoubanapp%2Fdispatch%3Furi%3D%2Fgroup%2Ftopic%2F205617484))
+
+### 新手教程
+
+[新手]([https://www.douban.com/doubanapp/dispatch?uri=/group/topic/153169978](https://www.douban.com/link2/?url=https%3A%2F%2Fwww.douban.com%2Fdoubanapp%2Fdispatch%3Furi%3D%2Fgroup%2Ftopic%2F153169978))
 
 ## 感谢
 
-谢谢  Overfitting同学对我的指导和无私帮助，感激莫名。
+谢谢  Overfitting 同学对我的指导和无私帮助，感激莫名。
 
 <br>
 
