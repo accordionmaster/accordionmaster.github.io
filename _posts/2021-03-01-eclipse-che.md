@@ -495,7 +495,7 @@ A plug-ins broker is defined as a container image (for example, `eclipse/che-plu
 
 ##### Che workspace creation flow
 
-![che workspace creation flow](2021-03-01-eclipse-che.assets/che-workspace-creation-flow.png)
+![che workspace creation flow](2021-03-01-eclipse-che.assets/che-workspace-creation-flow.png){:class="img-responsive"}
 
 The following is a Che workspace creation flow:
 
