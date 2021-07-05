@@ -7,6 +7,10 @@ tags: Words
 
 
 
+This is the Diary of Southwest Associated University I read by Xu Yuanchong. After reading this book, I compiled some impressive sentences in the book and used it for self-motivation!
+
+
+
 > 茅盾讲的题目是《一个问题的面面观》。当时汪精卫正从重庆经过昆明飞去越南，想日本投降。茅盾就结合当时的形势，举磨刀石为例。他说：从磨刀石的观点来看，石头是磨损了；但从刀的观点看来，刀却更锋利了。汪精卫就是只从磨刀石的观点来看，只见抗战消耗国力，所以他认为抗战不能取得胜利，结果他就投降日本了。如果从刀的观点来看，国力却是越打越强，结果一定会取得最后的胜利的。
 
 
