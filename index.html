@@ -23,14 +23,21 @@
             height: 90%;
             display: flex;
             flex-direction: column;
-            border: 1rem solid #8e5119;
+            border: 1rem solid #8e51;
+            /* border-image: linear-gradient(45deg, #c0781a, #e7bd88,#d9ad75,#e7bd88, #e5af6c, #ecb774); */
+            /* border-image: linear-gradient(#c0781a, #e7bd88,#d9ad75,#e7bd88, #e5af6c, #ecb774) 30; */
+            background-clip: padding-box, border-box;
+            background-origin: padding-box, border-box;
+            background-image: linear-gradient(to right, #222, #222), linear-gradient(90deg,#c0781a, #e7bd88,#d9ad75,#e7bd88, #e5af6c, #ecb774);
+
+
             border-radius: 30px;
 
             position: absolute;
             top: 6%;
             left: 10%;
             right: 10%;
-            
+
         }
 
         #flower_div {
@@ -40,8 +47,8 @@
             background-repeat: no-repeat;
             background-position: center;
             background-size: 20%;
-            
-            
+
+
         }
 
         #answer_card_div {
@@ -89,17 +96,17 @@
     <script>
         // 限制按钮点击次数----开始
         let count = 0;
-        function limitClick(){
-            if(count < 2){
+        function limitClick() {
+            if (count < 2) {
                 count++;
-            }else{
+            } else {
                 window.getElementById('start').disable = true;
             }
         }
         // 限制按钮点击次数----结束
 
         var names = ["答案一", "答案二", "答案三", "答案四", "答案五", "答案六", "答案七", "答案八", "答案九", "答案十",
-        "答案十一", "答案十二", "答案十三", "答案十四", "答案十五", "答案十六", "答案十七", "答案十八", "答案十九", "答案二十  "];
+            "答案十一", "答案十二", "答案十三", "答案十四", "答案十五", "答案十六", "答案十七", "答案十八", "答案十九", "答案二十  "];
         var time = null;
         function doit() {
             var button = window.document.getElementById("start");
@@ -133,7 +140,7 @@
             <div id="bottom_div" style="text-align:center">
                 <div id="button_div">
                     <button id="start" onclick="doit()">
-                        <img src="img/btn_with_words.png" alt="开始寻找答案吧" width="60%"  height="60%"> 
+                        <img src="img/btn_with_words.png" alt="开始寻找答案吧" width="60%" height="60%">
                     </button>
                 </div>
 
