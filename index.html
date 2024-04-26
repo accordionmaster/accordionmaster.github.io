@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>答案之书</title>
+    <style>
+        html,
+        body {
+            height: 100%;
+        }
+
+        #div0 {
+            height: 100%;
+            background-image: url("img/bkg.png");
+            background-color: rgb(80, 41, 6);
+            background-repeat: repeat;
+            display: flex;
+            align-content: center;
+            flex-direction: column;
+        }
+
+        #border_div{
+            height: 90%;
+            display: flex;
+            flex-direction: column;
+            border: solid #8e5119;
+            border-radius: 30px;
+
+            position: absolute;
+            top: 6%;
+            left: 10%;
+            right: 10%;
+            
+        }
+
+        #flower_div {
+            width: 100%;
+            height: 30%;
+            background-image: url("img/mini_flower.png");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 20%;
+            
+            
+        }
+
+        #answer_card_div {
+            width: 100%;
+            height: 80%;
+            /* background-color: blue; */
+            background-image: url("img/mini_flower.png");
+            background-repeat: no-repeat;
+            background-position: top;
+            background-size: 25%;
+            margin-top: 10%;
+            flex: 0 0 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #bottom_div {
+            width: 100%;
+            height: 20%;
+            /* background-color: yellow; */
+            flex: 1 1 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #button_div {
+            height: 100%;
+            width: 100%;
+            flex: 1 1 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #start {
+            background-color: transparent;
+            border: none;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        var names = ["答案一", "答案二", "答案三", "答案四", "答案五", "答案六", "答案七", "答案八", "答案九", "答案十",
+        "答案十一", "答案十二", "答案十三", "答案十四", "答案十五", "答案十六", "答案十七", "答案十八", "答案十九", "答案二十"];
+        var time = null;
+        function doit() {
+            var button = window.document.getElementById("start");
+            if (time == null) {
+                // innerHTML 属性设置或返回表格行的开始和结束标签之间的 HTML
+                // button.innerHTML = "停止寻找";
+                show();
+            } else {
+                // button.innerHTML = "开始寻找";
+                clearInterval(time);
+                time = null;
+            }
+        }
+        function show() {
+            var box = window.document.getElementById("ready");
+            var num = Math.floor(Math.random() * 100000) % names.length;
+            box.innerHTML = names[num];
+            time = setTimeout("show()", 1);
+        }
+    </script>
+
+
+    <div id="div0">
+        <div id="border_div">
+            <!-- <div id="flower_div"></div> -->
+            <div id="answer_card_div" style="text-align:center ;color:white;">
+                <h1 id="ready">天选之子,你准备好了吗?</h1>
+            </div>
+            <div id="bottom_div" style="text-align:center">
+                <div id="button_div">
+                    <button id="start" onclick="doit()">
+                        <img src="img/little_btn.png" alt="开始寻找答案吧" width="50%"  height="50%"> 
+                    </button>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+    <!-- <h1 id="ready">天选之子,你准备好了吗?</h1>
+    <button id="start" onclick="doit()">开始寻找答案吧</button> -->
+
+
+
+</body>
+
+</html>

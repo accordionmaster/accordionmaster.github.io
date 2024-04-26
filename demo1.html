@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>答案之书</title>
+</head>
+<body>
+    <script>
+        var names=["答案一","答案二","答案三","答案四","答案五","答案六","答案七","答案八"];
+    var time=null;
+    function doit(){
+        var button=window.document.getElementById("start");
+        if(time==null){
+            // innerHTML 属性设置或返回表格行的开始和结束标签之间的 HTML
+            button.innerHTML="停止寻找";
+            show();
+        }else{
+            button.innerHTML="开始寻找";
+            clearInterval(time);
+            time=null;
+        }
+    }
+    function show(){
+        var box=window.document.getElementById("ready");
+        var num=Math.floor(Math.random()*100000)%names.length;
+        box.innerHTML=names[num];
+        time=setTimeout("show()",1);
+    }
+    </script>
+    
+   
+    <h1 id="ready">天选之子,你准备好了吗?</h1>
+    <button id="start" onclick="doit()">开始寻找答案吧</button>
+   
+   
+    
+</body>
+</html>
