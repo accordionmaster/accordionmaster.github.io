@@ -11,8 +11,8 @@
 
         #div0 {
             height: 100%;
-            background-image: url("img/bkg.png");
-            background-color: rgb(80, 41, 6);
+            background-image: url("img/light_bkg.png");
+            background-color: #231f1a;
             background-repeat: repeat;
             display: flex;
             align-content: center;
@@ -87,11 +87,24 @@
 
 <body>
     <script>
+        // 限制按钮点击次数----开始
+        let count = 0;
+        function limitClick(){
+            if(count < 2){
+                count++;
+            }else{
+                window.getElementById('start').disable = true;
+            }
+        }
+        // 限制按钮点击次数----结束
+
         var names = ["答案一", "答案二", "答案三", "答案四", "答案五", "答案六", "答案七", "答案八", "答案九", "答案十",
         "答案十一", "答案十二", "答案十三", "答案十四", "答案十五", "答案十六", "答案十七", "答案十八", "答案十九", "答案二十  "];
         var time = null;
         function doit() {
             var button = window.document.getElementById("start");
+            // 点击按钮时，先调用按钮点击函数，判断点击次数
+            limitClick();
             if (time == null) {
                 // innerHTML 属性设置或返回表格行的开始和结束标签之间的 HTML
                 // button.innerHTML = "停止寻找";
@@ -120,7 +133,7 @@
             <div id="bottom_div" style="text-align:center">
                 <div id="button_div">
                     <button id="start" onclick="doit()">
-                        <img src="img/little_btn.png" alt="开始寻找答案吧" width="70%"  height="70%"> 
+                        <img src="img/btn_with_words.png" alt="开始寻找答案吧" width="60%"  height="60%"> 
                     </button>
                 </div>
 
